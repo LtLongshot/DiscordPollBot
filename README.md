@@ -6,6 +6,9 @@ Done for some python practice
 
 
 TODO:
-Force 1 vote per person \n
-clean up variables /n
+
+Force 1 vote per person
+
+clean up variables
+
 Small QOL (Remove command once called)
