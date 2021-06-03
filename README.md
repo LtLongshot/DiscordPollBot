@@ -6,9 +6,6 @@ Done for some python practice
 
 
 TODO:
-
 Force 1 vote per person
-
 clean up variables
-
 Small QOL (Remove command once called)
